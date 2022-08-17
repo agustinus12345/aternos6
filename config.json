@@ -1,0 +1,9 @@
+{
+	"ip":"aternos55424dRO.aternos.me",
+	"port": "24809",
+	"name": "pacifista",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
